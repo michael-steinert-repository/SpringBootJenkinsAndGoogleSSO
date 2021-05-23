@@ -4,8 +4,8 @@ spring:
       client:
         registration:
           google:
-            clientId: 280066959377-itj18gjco15sjqdai2in2s91ltb6gq9v.apps.googleusercontent.com
-            clientSecret: 40EzQob7-pTqYVzo_zRL_u3M
+            clientId: xxx.apps.googleusercontent.com
+            clientSecret: xxx
 
 server:
   port: 9191
